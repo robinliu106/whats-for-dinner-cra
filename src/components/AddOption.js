@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 
-const AddOption = () => {
+const AddOption = (props) => {
     const [error, setError] = useState();
 
     const handleAddOption = (e) => {
         e.preventDefault();
         const option = e.target.elements.option.value.trim();
+        const error = props.handleAddOption(option);
         setError(error);
 
         if (!error) {
