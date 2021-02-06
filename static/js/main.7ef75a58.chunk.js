@@ -1,2 +1,0 @@
-(this["webpackJsonpwhats-for-dinner-cra"]=this["webpackJsonpwhats-for-dinner-cra"]||[]).push([[0],{9:function(e,n,r){"use strict";r.r(n);r(1);var t=r(3),s=r.n(t),c=r(0),a=function(){return Object(c.jsx)("div",{className:"App",children:"appo"})};s.a.render(Object(c.jsx)(a,{}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.7ef75a58.chunk.js.map

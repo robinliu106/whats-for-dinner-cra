@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.js": "/whats-for-dinner-cra/static/js/main.7ef75a58.chunk.js",
-    "main.js.map": "/whats-for-dinner-cra/static/js/main.7ef75a58.chunk.js.map",
+    "main.css": "/whats-for-dinner-cra/static/css/main.744d3565.chunk.css",
+    "main.js": "/whats-for-dinner-cra/static/js/main.e29ddd0a.chunk.js",
+    "main.js.map": "/whats-for-dinner-cra/static/js/main.e29ddd0a.chunk.js.map",
     "runtime-main.js": "/whats-for-dinner-cra/static/js/runtime-main.fb916f09.js",
     "runtime-main.js.map": "/whats-for-dinner-cra/static/js/runtime-main.fb916f09.js.map",
-    "static/js/2.7667e4b6.chunk.js": "/whats-for-dinner-cra/static/js/2.7667e4b6.chunk.js",
-    "static/js/2.7667e4b6.chunk.js.map": "/whats-for-dinner-cra/static/js/2.7667e4b6.chunk.js.map",
+    "static/css/2.679831fc.chunk.css": "/whats-for-dinner-cra/static/css/2.679831fc.chunk.css",
+    "static/js/2.2690a0d4.chunk.js": "/whats-for-dinner-cra/static/js/2.2690a0d4.chunk.js",
+    "static/js/2.2690a0d4.chunk.js.map": "/whats-for-dinner-cra/static/js/2.2690a0d4.chunk.js.map",
     "index.html": "/whats-for-dinner-cra/index.html",
-    "static/js/2.7667e4b6.chunk.js.LICENSE.txt": "/whats-for-dinner-cra/static/js/2.7667e4b6.chunk.js.LICENSE.txt"
+    "static/css/2.679831fc.chunk.css.map": "/whats-for-dinner-cra/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.744d3565.chunk.css.map": "/whats-for-dinner-cra/static/css/main.744d3565.chunk.css.map",
+    "static/js/2.2690a0d4.chunk.js.LICENSE.txt": "/whats-for-dinner-cra/static/js/2.2690a0d4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fb916f09.js",
-    "static/js/2.7667e4b6.chunk.js",
-    "static/js/main.7ef75a58.chunk.js"
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.2690a0d4.chunk.js",
+    "static/css/main.744d3565.chunk.css",
+    "static/js/main.e29ddd0a.chunk.js"
   ]
 }
