@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/whats-for-dinner-cra/static/css/main.744d3565.chunk.css",
-    "main.js": "/whats-for-dinner-cra/static/js/main.e29ddd0a.chunk.js",
-    "main.js.map": "/whats-for-dinner-cra/static/js/main.e29ddd0a.chunk.js.map",
+    "main.js": "/whats-for-dinner-cra/static/js/main.8e2cff3f.chunk.js",
+    "main.js.map": "/whats-for-dinner-cra/static/js/main.8e2cff3f.chunk.js.map",
     "runtime-main.js": "/whats-for-dinner-cra/static/js/runtime-main.fb916f09.js",
     "runtime-main.js.map": "/whats-for-dinner-cra/static/js/runtime-main.fb916f09.js.map",
     "static/css/2.679831fc.chunk.css": "/whats-for-dinner-cra/static/css/2.679831fc.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.679831fc.chunk.css",
     "static/js/2.2690a0d4.chunk.js",
     "static/css/main.744d3565.chunk.css",
-    "static/js/main.e29ddd0a.chunk.js"
+    "static/js/main.8e2cff3f.chunk.js"
   ]
 }
